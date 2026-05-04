@@ -2,7 +2,7 @@
 
 > An autonomous AI agent that connects to your GitHub repos and Slack workspace, answers questions from real source data, plans multi-step tasks, reflects on answer quality, and requires human approval before writing anything.
 
-Built with **Claude claude-sonnet-4-20250514**, **Node.js**, and **Express** — showcasing production-grade agentic AI patterns for enterprise use.
+Built with **Node.js**, and **Express** — showcasing production-grade agentic AI patterns for enterprise use.
 
 ---
 
